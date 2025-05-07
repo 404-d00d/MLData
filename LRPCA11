@@ -1,0 +1,318 @@
+Iteration 0 	Loss = 4.756150877815721
+Iteration 50 	Loss = 3.5984731171847457
+Iteration 100 	Loss = 3.419652053592388
+Iteration 150 	Loss = 3.357742251763703
+Iteration 200 	Loss = 3.3258205494876316
+Iteration 250 	Loss = 3.304988783546824
+Iteration 300 	Loss = 3.2866866983203695
+Iteration 350 	Loss = 3.270331518485949
+Iteration 400 	Loss = 3.250980072115056
+Iteration 450 	Loss = 3.2508410231047713
+Gradient descent failed to converge. (The answer may still be acceptably good.)
+Classification Report:
+              precision    recall  f1-score   support
+
+ Non-Gunshot       0.54      0.41      0.47      2472
+     Gunshot       0.53      0.65      0.58      2464
+
+    accuracy                           0.53      4936
+   macro avg       0.53      0.53      0.53      4936
+weighted avg       0.53      0.53      0.53      4936
+
+Confusion Matrix:
+ [[1018 1454]
+ [ 854 1610]]
+
+=== Predictions for Police Save Woman From Predator Ex-Husband_mfcc.npy ===
+Chunk 0 (0s–1s): Non-Gunshot
+Chunk 1 (1s–2s): Non-Gunshot
+Chunk 2 (2s–3s): Non-Gunshot
+Chunk 3 (3s–4s): Non-Gunshot
+Chunk 4 (4s–5s): Non-Gunshot
+Chunk 5 (5s–6s): Non-Gunshot
+Chunk 6 (6s–7s): Non-Gunshot
+Chunk 7 (7s–8s): Non-Gunshot
+Chunk 8 (8s–9s): Non-Gunshot
+Chunk 9 (9s–10s): Non-Gunshot
+Chunk 10 (10s–11s): Non-Gunshot
+Chunk 11 (11s–12s): Non-Gunshot
+Chunk 12 (12s–13s): Non-Gunshot
+Chunk 13 (13s–14s): Non-Gunshot
+Chunk 14 (14s–15s): Non-Gunshot
+Chunk 15 (15s–16s): Non-Gunshot
+Chunk 16 (16s–17s): Non-Gunshot
+Chunk 17 (17s–18s): Non-Gunshot
+Chunk 18 (18s–19s): Non-Gunshot
+Chunk 19 (19s–20s): Non-Gunshot
+Chunk 20 (20s–21s): Non-Gunshot
+Chunk 21 (21s–22s): Non-Gunshot
+Chunk 22 (22s–23s): Non-Gunshot
+Chunk 23 (23s–24s): Non-Gunshot
+Chunk 24 (24s–25s): Non-Gunshot
+Chunk 25 (25s–26s): Non-Gunshot
+Chunk 26 (26s–27s): Non-Gunshot
+Chunk 27 (27s–28s): Non-Gunshot
+Chunk 28 (28s–29s): Gunshot
+Chunk 29 (29s–30s): Non-Gunshot
+Chunk 30 (30s–31s): Non-Gunshot
+Chunk 31 (31s–32s): Non-Gunshot
+Chunk 32 (32s–33s): Non-Gunshot
+Chunk 33 (33s–34s): Non-Gunshot
+Chunk 34 (34s–35s): Non-Gunshot
+Chunk 35 (35s–36s): Non-Gunshot
+Chunk 36 (36s–37s): Non-Gunshot
+Chunk 37 (37s–38s): Non-Gunshot
+Chunk 38 (38s–39s): Non-Gunshot
+Chunk 39 (39s–40s): Non-Gunshot
+Chunk 40 (40s–41s): Non-Gunshot
+Chunk 41 (41s–42s): Non-Gunshot
+Chunk 42 (42s–43s): Non-Gunshot
+Chunk 43 (43s–44s): Non-Gunshot
+Chunk 44 (44s–45s): Non-Gunshot
+Chunk 45 (45s–46s): Non-Gunshot
+Chunk 46 (46s–47s): Non-Gunshot
+Chunk 47 (47s–48s): Non-Gunshot
+Chunk 48 (48s–49s): Non-Gunshot
+Chunk 49 (49s–50s): Non-Gunshot
+Chunk 50 (50s–51s): Non-Gunshot
+Chunk 51 (51s–52s): Non-Gunshot
+Chunk 52 (52s–53s): Non-Gunshot
+Chunk 53 (53s–54s): Gunshot
+Chunk 54 (54s–55s): Gunshot
+Chunk 55 (55s–56s): Gunshot
+Chunk 56 (56s–57s): Gunshot
+Chunk 57 (57s–58s): Gunshot
+Chunk 58 (58s–59s): Gunshot
+Chunk 59 (59s–60s): Gunshot
+Chunk 60 (60s–61s): Gunshot
+Chunk 61 (61s–62s): Gunshot
+Chunk 62 (62s–63s): Gunshot
+Chunk 63 (63s–64s): Gunshot
+Chunk 64 (64s–65s): Gunshot
+Chunk 65 (65s–66s): Gunshot
+Chunk 66 (66s–67s): Gunshot
+Chunk 67 (67s–68s): Gunshot
+Chunk 68 (68s–69s): Gunshot
+Chunk 69 (69s–70s): Gunshot
+Chunk 70 (70s–71s): Gunshot
+Chunk 71 (71s–72s): Gunshot
+Chunk 72 (72s–73s): Gunshot
+Chunk 73 (73s–74s): Gunshot
+Chunk 74 (74s–75s): Gunshot
+Chunk 75 (75s–76s): Gunshot
+Chunk 76 (76s–77s): Gunshot
+Chunk 77 (77s–78s): Gunshot
+Chunk 78 (78s–79s): Non-Gunshot
+Chunk 79 (79s–80s): Gunshot
+Chunk 80 (80s–81s): Gunshot
+Chunk 81 (81s–82s): Non-Gunshot
+Chunk 82 (82s–83s): Non-Gunshot
+Chunk 83 (83s–84s): Non-Gunshot
+Chunk 84 (84s–85s): Gunshot
+Chunk 85 (85s–86s): Non-Gunshot
+Chunk 86 (86s–87s): Non-Gunshot
+Chunk 87 (87s–88s): Non-Gunshot
+Chunk 88 (88s–89s): Non-Gunshot
+Chunk 89 (89s–90s): Non-Gunshot
+Chunk 90 (90s–91s): Non-Gunshot
+Chunk 91 (91s–92s): Non-Gunshot
+Chunk 92 (92s–93s): Non-Gunshot
+Chunk 93 (93s–94s): Gunshot
+Chunk 94 (94s–95s): Gunshot
+Chunk 95 (95s–96s): Gunshot
+Chunk 96 (96s–97s): Gunshot
+Chunk 97 (97s–98s): Gunshot
+Chunk 98 (98s–99s): Gunshot
+Chunk 99 (99s–100s): Gunshot
+Chunk 100 (100s–101s): Gunshot
+Chunk 101 (101s–102s): Gunshot
+Chunk 102 (102s–103s): Gunshot
+Chunk 103 (103s–104s): Gunshot
+Chunk 104 (104s–105s): Gunshot
+Chunk 105 (105s–106s): Gunshot
+Chunk 106 (106s–107s): Gunshot
+Chunk 107 (107s–108s): Gunshot
+Chunk 108 (108s–109s): Non-Gunshot
+Chunk 109 (109s–110s): Non-Gunshot
+Chunk 110 (110s–111s): Non-Gunshot
+Chunk 111 (111s–112s): Gunshot
+Chunk 112 (112s–113s): Gunshot
+Chunk 113 (113s–114s): Gunshot
+Chunk 114 (114s–115s): Gunshot
+Chunk 115 (115s–116s): Gunshot
+Chunk 116 (116s–117s): Gunshot
+Chunk 117 (117s–118s): Gunshot
+Chunk 118 (118s–119s): Gunshot
+Chunk 119 (119s–120s): Gunshot
+Chunk 120 (120s–121s): Gunshot
+Chunk 121 (121s–122s): Gunshot
+Chunk 122 (122s–123s): Gunshot
+Chunk 123 (123s–124s): Gunshot
+Chunk 124 (124s–125s): Gunshot
+Chunk 125 (125s–126s): Non-Gunshot
+58(s) detected out of 126 chunks
+Saved predictions to Police Save Woman From Predator Ex-Husband_mfcc_predictionsLR.csv
+
+=== Predictions for Predator Pulls Gun During Sting_mfcc.npy ===
+Chunk 0 (0s–1s): Non-Gunshot
+Chunk 1 (1s–2s): Gunshot
+Chunk 2 (2s–3s): Gunshot
+Chunk 3 (3s–4s): Gunshot
+Chunk 4 (4s–5s): Gunshot
+Chunk 5 (5s–6s): Gunshot
+Chunk 6 (6s–7s): Gunshot
+Chunk 7 (7s–8s): Gunshot
+Chunk 8 (8s–9s): Gunshot
+Chunk 9 (9s–10s): Gunshot
+Chunk 10 (10s–11s): Gunshot
+Chunk 11 (11s–12s): Gunshot
+Chunk 12 (12s–13s): Gunshot
+Chunk 13 (13s–14s): Gunshot
+Chunk 14 (14s–15s): Non-Gunshot
+Chunk 15 (15s–16s): Gunshot
+Chunk 16 (16s–17s): Gunshot
+Chunk 17 (17s–18s): Non-Gunshot
+Chunk 18 (18s–19s): Non-Gunshot
+Chunk 19 (19s–20s): Gunshot
+Chunk 20 (20s–21s): Gunshot
+Chunk 21 (21s–22s): Gunshot
+Chunk 22 (22s–23s): Gunshot
+Chunk 23 (23s–24s): Gunshot
+Chunk 24 (24s–25s): Gunshot
+Chunk 25 (25s–26s): Gunshot
+Chunk 26 (26s–27s): Gunshot
+Chunk 27 (27s–28s): Gunshot
+Chunk 28 (28s–29s): Gunshot
+Chunk 29 (29s–30s): Gunshot
+Chunk 30 (30s–31s): Gunshot
+Chunk 31 (31s–32s): Gunshot
+Chunk 32 (32s–33s): Non-Gunshot
+Chunk 33 (33s–34s): Non-Gunshot
+Chunk 34 (34s–35s): Gunshot
+Chunk 35 (35s–36s): Gunshot
+Chunk 36 (36s–37s): Non-Gunshot
+Chunk 37 (37s–38s): Non-Gunshot
+Chunk 38 (38s–39s): Gunshot
+Chunk 39 (39s–40s): Gunshot
+Chunk 40 (40s–41s): Gunshot
+Chunk 41 (41s–42s): Gunshot
+Chunk 42 (42s–43s): Gunshot
+Chunk 43 (43s–44s): Gunshot
+Chunk 44 (44s–45s): Gunshot
+Chunk 45 (45s–46s): Gunshot
+Chunk 46 (46s–47s): Gunshot
+Chunk 47 (47s–48s): Gunshot
+Chunk 48 (48s–49s): Gunshot
+Chunk 49 (49s–50s): Gunshot
+Chunk 50 (50s–51s): Gunshot
+Chunk 51 (51s–52s): Gunshot
+Chunk 52 (52s–53s): Non-Gunshot
+Chunk 53 (53s–54s): Gunshot
+Chunk 54 (54s–55s): Gunshot
+Chunk 55 (55s–56s): Non-Gunshot
+Chunk 56 (56s–57s): Non-Gunshot
+Chunk 57 (57s–58s): Non-Gunshot
+Chunk 58 (58s–59s): Non-Gunshot
+Chunk 59 (59s–60s): Non-Gunshot
+Chunk 60 (60s–61s): Non-Gunshot
+Chunk 61 (61s–62s): Non-Gunshot
+Chunk 62 (62s–63s): Non-Gunshot
+46(s) detected out of 63 chunks
+Saved predictions to Predator Pulls Gun During Sting_mfcc_predictionsLR.csv
+
+=== Predictions for Cop Uses MP7 To Shred Suspect_mfcc.npy ===
+Chunk 0 (0s–1s): Non-Gunshot
+Chunk 1 (1s–2s): Gunshot
+Chunk 2 (2s–3s): Gunshot
+Chunk 3 (3s–4s): Gunshot
+Chunk 4 (4s–5s): Gunshot
+Chunk 5 (5s–6s): Gunshot
+Chunk 6 (6s–7s): Gunshot
+Chunk 7 (7s–8s): Gunshot
+Chunk 8 (8s–9s): Gunshot
+Chunk 9 (9s–10s): Gunshot
+Chunk 10 (10s–11s): Non-Gunshot
+Chunk 11 (11s–12s): Gunshot
+Chunk 12 (12s–13s): Gunshot
+Chunk 13 (13s–14s): Gunshot
+Chunk 14 (14s–15s): Gunshot
+Chunk 15 (15s–16s): Gunshot
+Chunk 16 (16s–17s): Gunshot
+Chunk 17 (17s–18s): Non-Gunshot
+Chunk 18 (18s–19s): Non-Gunshot
+Chunk 19 (19s–20s): Gunshot
+Chunk 20 (20s–21s): Gunshot
+Chunk 21 (21s–22s): Gunshot
+Chunk 22 (22s–23s): Gunshot
+Chunk 23 (23s–24s): Gunshot
+Chunk 24 (24s–25s): Gunshot
+Chunk 25 (25s–26s): Gunshot
+Chunk 26 (26s–27s): Gunshot
+Chunk 27 (27s–28s): Gunshot
+Chunk 28 (28s–29s): Gunshot
+Chunk 29 (29s–30s): Gunshot
+Chunk 30 (30s–31s): Gunshot
+Chunk 31 (31s–32s): Gunshot
+Chunk 32 (32s–33s): Gunshot
+Chunk 33 (33s–34s): Gunshot
+Chunk 34 (34s–35s): Gunshot
+Chunk 35 (35s–36s): Gunshot
+Chunk 36 (36s–37s): Non-Gunshot
+Chunk 37 (37s–38s): Gunshot
+Chunk 38 (38s–39s): Gunshot
+Chunk 39 (39s–40s): Gunshot
+Chunk 40 (40s–41s): Gunshot
+Chunk 41 (41s–42s): Gunshot
+Chunk 42 (42s–43s): Gunshot
+Chunk 43 (43s–44s): Gunshot
+Chunk 44 (44s–45s): Gunshot
+Chunk 45 (45s–46s): Non-Gunshot
+Chunk 46 (46s–47s): Non-Gunshot
+Chunk 47 (47s–48s): Non-Gunshot
+Chunk 48 (48s–49s): Non-Gunshot
+Chunk 49 (49s–50s): Non-Gunshot
+Chunk 50 (50s–51s): Non-Gunshot
+Chunk 51 (51s–52s): Non-Gunshot
+Chunk 52 (52s–53s): Non-Gunshot
+Chunk 53 (53s–54s): Gunshot
+Chunk 54 (54s–55s): Gunshot
+Chunk 55 (55s–56s): Non-Gunshot
+Chunk 56 (56s–57s): Gunshot
+Chunk 57 (57s–58s): Non-Gunshot
+Chunk 58 (58s–59s): Gunshot
+Chunk 59 (59s–60s): Gunshot
+Chunk 60 (60s–61s): Non-Gunshot
+Chunk 61 (61s–62s): Gunshot
+Chunk 62 (62s–63s): Non-Gunshot
+Chunk 63 (63s–64s): Non-Gunshot
+Chunk 64 (64s–65s): Non-Gunshot
+Chunk 65 (65s–66s): Non-Gunshot
+Chunk 66 (66s–67s): Non-Gunshot
+Chunk 67 (67s–68s): Non-Gunshot
+Chunk 68 (68s–69s): Non-Gunshot
+Chunk 69 (69s–70s): Non-Gunshot
+Chunk 70 (70s–71s): Non-Gunshot
+Chunk 71 (71s–72s): Non-Gunshot
+Chunk 72 (72s–73s): Non-Gunshot
+Chunk 73 (73s–74s): Non-Gunshot
+Chunk 74 (74s–75s): Non-Gunshot
+Chunk 75 (75s–76s): Non-Gunshot
+Chunk 76 (76s–77s): Non-Gunshot
+Chunk 77 (77s–78s): Non-Gunshot
+Chunk 78 (78s–79s): Non-Gunshot
+Chunk 79 (79s–80s): Non-Gunshot
+Chunk 80 (80s–81s): Non-Gunshot
+Chunk 81 (81s–82s): Non-Gunshot
+Chunk 82 (82s–83s): Non-Gunshot
+Chunk 83 (83s–84s): Non-Gunshot
+Chunk 84 (84s–85s): Non-Gunshot
+Chunk 85 (85s–86s): Non-Gunshot
+Chunk 86 (86s–87s): Non-Gunshot
+Chunk 87 (87s–88s): Non-Gunshot
+Chunk 88 (88s–89s): Non-Gunshot
+Chunk 89 (89s–90s): Non-Gunshot
+Chunk 90 (90s–91s): Non-Gunshot
+Chunk 91 (91s–92s): Non-Gunshot
+Chunk 92 (92s–93s): Non-Gunshot
+46(s) detected out of 93 chunks
+Saved predictions to Cop Uses MP7 To Shred Suspect_mfcc_predictionsLR.csv
